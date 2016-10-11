@@ -1,0 +1,16 @@
+{
+  "name": "node-chat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "chat-server.js",
+  "author": "",
+  "license": "ISC",
+  "scripts": {
+    "start": "node chat-server.js"
+  },
+  "devDependencies": {},
+  "dependencies": {
+    "request": "^2.75.0",
+    "websocket": "^1.0.23"
+  }
+}
